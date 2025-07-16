@@ -52,19 +52,9 @@ To run this notebook locally:
 > Note: This notebook is prepared to be run in a **Jupyter Notebook** environment.  
 > If you're using Google Colab or another platform, you may need to manually upload the dataset.
 
-## ⚠️ Disclaimer
+## 🛡️ License
 
-This project was developed as part of the Google Advanced Data Analytics Certificate on Coursera.
-
-The dataset and general structure (including the hypothesis test scenario and guiding questions) were provided by Coursera for educational purposes.
-
-All Python code, data exploration, statistical analysis, visualizations, and interpretations in this repository were independently developed by the author based on the exercise instructions.
-
-To respect Coursera’s content policy, no proprietary course materials (e.g., full instructions or internal content) are included.
-
-## 📄 License
-
-This project is released under the **CC0 1.0 Universal License**.
+This project is for educational purposes under the guidelines of the Google Advanced Data Analytics Certificate. No commercial use intended.
 
 ## 📬 Contact
 
