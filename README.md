@@ -26,11 +26,6 @@ To investigate whether there is a statistically significant difference in the av
 - Develop a **logistic regression model** to explore patterns in engagement and claim status.
 - Investigate other predictors such as author ban status, video duration, or content characteristics.
 
-## 📑 Executive Summary
-
-A summary of the analysis and business insights is available here:  
-➡️ [Download Executive Summary (PDF)](./Activity-Exemplar_-TikTok-Course-4-executive-summary%20SA.pdf)
-
 ## 🛠️ Tools Used
 
 - Python  
@@ -42,7 +37,7 @@ A summary of the analysis and business insights is available here:
 
 - `tiktok_hypothesis_test.ipynb`: Complete analysis notebook  
 - `tiktok_dataset.csv`: TikTok video dataset used for the hypothesis test  
-- `Activity-Exemplar_-TikTok-Course-4-executive-summary SA.pdf`: Executive summary with findings  
+- `Activity-TikTok-Course-4-executive-summary SA.pdf`: Executive summary with findings  
 - `README.md`: Project summary and documentation
 
 ## 📂 How to Run
